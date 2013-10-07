@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Henrique Graca]]></title>
-  <link href="http://hjgraca.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: javascript, | Henrique Graca]]></title>
+  <link href="http://hjgraca.github.io/blog/categories/javascript/atom.xml" rel="self"/>
   <link href="http://hjgraca.github.io/"/>
   <updated>2013-10-07T20:30:30+01:00</updated>
   <id>http://hjgraca.github.io/</id>
@@ -23,7 +23,7 @@
 
 <blockquote><p>AngularJS is awesome!</p></blockquote>
 
-<figure class='code'><figcaption><span>AngularJS code example </span></figcaption>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>AngularJS code example </span></figcaption>
 <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
@@ -38,23 +38,32 @@
 <span class='line-number'>12</span>
 <span class='line-number'>13</span>
 <span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>&lt;!doctype html>
 </span><span class='line'>&lt;html ng-app>
-</span><span class='line'>  &lt;head>
-</span><span class='line'>    &lt;script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js">&lt;/script>
-</span><span class='line'>  &lt;/head>
-</span><span class='line'>  &lt;body>
-</span><span class='line'>    &lt;div>
-</span><span class='line'>      &lt;label>Name:&lt;/label>
-</span><span class='line'>      &lt;input type="text" ng-model="yourName" placeholder="Enter a name here">
-</span><span class='line'>      &lt;hr>
-</span><span class='line'>      &lt;h1>Hello !&lt;/h1>
-</span><span class='line'>    &lt;/div>
-</span><span class='line'>  &lt;/body>
-</span><span class='line'>&lt;/html></span></code></pre></td></tr></table></div></figure>
-
-
-
+</span><span class='line'>  &lt;head>&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;pre>&lt;code>&lt;script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"&gt;&lt;/script&gt;
+</span><span class='line'>&lt;/code>&lt;/pre>
+</span><span class='line'>
+</span><span class='line'>&lt;p>  &lt;/head>
+</span><span class='line'>  &lt;body>&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;pre>&lt;code>&lt;div&gt;
+</span><span class='line'>  &lt;label&gt;Name:&lt;/label&gt;
+</span><span class='line'>  &lt;input type="text" ng-model="yourName" placeholder="Enter a name here"&gt;
+</span><span class='line'>  &lt;hr&gt;
+</span><span class='line'>  &lt;h1&gt;Hello !&lt;/h1&gt;
+</span><span class='line'>&lt;/div&gt;
+</span><span class='line'>&lt;/code>&lt;/pre>
+</span><span class='line'>
+</span><span class='line'>&lt;p>  &lt;/body>
+</span><span class='line'>&lt;/html></span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
   
