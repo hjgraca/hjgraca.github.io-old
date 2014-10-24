@@ -1,0 +1,15 @@
+# Site settings
+title: Coding After Hours
+email: henrique.j.graca@gmail.com
+description: "ramblings of an enthusiastic Web developer"
+#baseurl: ""
+url: "http://hjgraca.github.io/"
+twitter_username: hjgraca
+github_username:  hjgraca
+stackoverflow_username:  727141
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
