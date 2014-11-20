@@ -30,6 +30,6 @@ header-img: "img/fence.jpg"
 
 <p>
     Bad move Mozilla, keep the standards guys. I lost a couple of hours trying to figure out a nice solution. The quest lead me to the following online articles
-http://stackoverflow.com/questions/5985839/bug-with-firefox-disabled-attribute-of-input-not-resetting-when-refreshing
-https://bugzilla.mozilla.org/show_bug.cgi?id=654072
+<a href="http://stackoverflow.com/questions/5985839/bug-with-firefox-disabled-attribute-of-input-not-resetting-when-refreshing">StackOverflow</a> and
+<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=654072">Mozilla</a>
 </p>
