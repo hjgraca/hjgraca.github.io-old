@@ -4,7 +4,7 @@ title:      "Preventing Firefox from caching input disabled state"
 subtitle:   "Back button and refreshing keeps disabled state"
 date:       2014-11-20 17:34:00
 author:     "Henrique Graca"
-header-img: "img/fence.jpg"
+header-img: "img/spiral_bg.jpg"
 ---
 <p>
     Whilst developing a simple feature to disable a button and add a spinner on form submit so that a user couldn't click the button and resubmit the page if it took too long.
