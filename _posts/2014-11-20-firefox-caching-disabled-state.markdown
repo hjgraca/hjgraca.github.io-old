@@ -28,5 +28,8 @@ header-img: "img/fence.jpg"
 
 <h2 class="section-heading">Final thoughts</h2>
 
-<p>I lost a couple of hours trying to mock the HtmlHelper but finally I was able to create a really nice mocked version that I think covers a lot of real test cases such as returning partial views, redirections and rendering Html from an Html extension.</p>
-<p>Good coding!!</p>
+<p>
+    Bad move Mozilla, keep the standards guys. I lost a couple of hours trying to figure out a nice solution. The quest lead me to the following online articles
+http://stackoverflow.com/questions/5985839/bug-with-firefox-disabled-attribute-of-input-not-resetting-when-refreshing
+https://bugzilla.mozilla.org/show_bug.cgi?id=654072
+</p>
