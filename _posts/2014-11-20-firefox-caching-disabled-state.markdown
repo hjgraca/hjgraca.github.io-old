@@ -17,12 +17,12 @@ header-img: "img/fence.jpg"
 
 <p>Adding <strong>autocomplete="off"</strong> to the input prevented Firefox from caching.</p>
 
-<pre><code><input type="submit" value="Submit" autocomplete="off"/>
+<pre><code>< input type="submit" value="Submit" autocomplete="off" />
 </code></pre>
 
 <p>You can also add that attribute to the form itself</p>
 
-<pre><code><form novalidate="novalidate" action="" method="post" autocomplete="off">
+<pre><code> < form novalidate="novalidate" action="" method="post" autocomplete="off" >
 </code></pre>
 
 
