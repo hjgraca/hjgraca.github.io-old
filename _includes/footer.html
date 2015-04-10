@@ -60,6 +60,39 @@
     </div>
 </footer>
 
+<span class="text-content"><span>Click to enlarge</span></span>
+
+<style>
+
+span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 150px;
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
+ 
+.image:hover span.text-content {
+  opacity: 1;
+}
+</style>
+
+
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 
@@ -68,3 +101,21 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
+
+<script>
+
+$.fn.percWidth = function(){
+	var width = $('img').width();
+	var parentWidth = $('img').offsetParent().width();
+	return 100*width/parentWidth;
+}
+
+$('.image').click(function(){
+	 $(this).css('width', function(_ , cur){
+		var percent = $(this).percWidth();
+		return percent == '100' ? '' : '100%'
+	});  
+});
+
+</script>
+
