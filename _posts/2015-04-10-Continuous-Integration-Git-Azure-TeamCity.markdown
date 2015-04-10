@@ -25,4 +25,8 @@ I assume you have a working TeamCity version either locally or remotely. If not 
 
 Nothing could be more easy than creating your very own website in Azure. Navigate to your [Azure Portal](http://portal.azure.com "Azure Portal") account Simply click `New -> Web + Mobile -> WebApp`. A new blade will appear on the right, enter your unique website Url, choose pricing and location, click Create and wait for your new website to go live, after it's finished you can navigate to your Web App Url, that easy.
 
-![Add Web App](https://dl.dropbox.com/s/1in2tpdrsq97ejg/Screenshot%202015-04-10%2011.40.46.png) 
+<div class="row">
+<div class="col-lg-12 col-md-11 col-md-offset-1">
+<img src="https://dl.dropbox.com/s/1in2tpdrsq97ejg/Screenshot%202015-04-10%2011.40.46.png" alt="Add Web App" style="width: 100%;"> 
+</div>
+</div>
