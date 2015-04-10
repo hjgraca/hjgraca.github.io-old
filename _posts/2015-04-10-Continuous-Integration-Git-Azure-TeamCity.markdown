@@ -7,7 +7,9 @@ author:     "Henrique Graca"
 header-img: "img/post-bg-06.jpg"
 ---
 In this blog post I'll share my experience with implementing a continuous integration/deployment system using Git, GitHub, TeamCity and Azure Websites.
+
 ## What we are going to do ##
+
 1. Create a new Windows Azure Web App
 2. Enable Git publishing on the Web App 
 3. Create a repository on GitHub to store your code
