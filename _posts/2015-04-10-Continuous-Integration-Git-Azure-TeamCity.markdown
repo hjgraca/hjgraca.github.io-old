@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Continuous integration and deployment GitHub - Azure Web Apps and TeamCity"
+title:      "Continuous integration and deployment with GitHub, Azure Web Apps and TeamCity"
 subtitle:   ""
 date:       2015-04-10 11:52:00
 author:     "Henrique Graca"
