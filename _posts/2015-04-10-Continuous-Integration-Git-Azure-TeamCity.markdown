@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Continuous integration and deployment with GitHub, Azure Web Apps and TeamCity"
+title:      "ASP.Net MVC 5 Continuous integration and deployment with GitHub, Azure Web Apps and TeamCity"
 subtitle:   ""
 date:       2015-04-10 11:52:00
 author:     "Henrique Graca"
 header-img: "img/post-bg-06.jpg"
 ---
-In this blog post I'll share my experience with implementing a continuous integration/deployment system using Git, GitHub, TeamCity and Azure Websites.
+In this blog post I'll share my experience with implementing a continuous integration/deployment system using Git, GitHub, TeamCity, ASP.Net MVC 5 and Azure Web Apps.
 
 ## What we are going to do ##
 
