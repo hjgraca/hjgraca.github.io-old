@@ -7,13 +7,9 @@ author:     "Henrique Graca"
 header-img: "img/post-bg-01.jpg"
 ---
 
-Installation
+ngEurope Paris
 --------------
 
-<pre><code>This is a code block.
-</code></pre>
-Here is an example of AppleScript:
+Had a great time at ngEurope in Paris, network with very smart people and watched amazing presentations.
 
-    tell application "Foo"
-        beep
-    end tell
+All presentations can now be found in [ngEurope Youtube channel](https://www.youtube.com/channel/UCEGUP3TJJfMsEM_1y8iviSQ "ngEurope Youtube channel") 
