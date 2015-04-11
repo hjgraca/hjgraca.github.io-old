@@ -12,4 +12,4 @@ ngEurope Paris
 
 Had a great time at ngEurope in Paris, network with very smart people and watched amazing presentations.
 
-All presentations can now be found in [ngEurope Youtube channel](https://www.youtube.com/channel/UCEGUP3TJJfMsEM_1y8iviSQ "ngEurope Youtube channel") 
+All presentations can be found in [ngEurope Youtube channel](https://www.youtube.com/channel/UCEGUP3TJJfMsEM_1y8iviSQ "ngEurope Youtube channel") 
