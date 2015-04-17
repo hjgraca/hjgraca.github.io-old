@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://hjgraca.github.io/</loc>
+  <lastmod>2015-04-17T20:17:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hjgraca.github.io/about/</loc>
+  <lastmod>2015-04-17T20:17:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hjgraca.github.io/contact/</loc>
+  <lastmod>2015-04-17T20:17:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hjgraca.github.io/2015/04/10/Continuous-Integration-Git-Azure-TeamCity/</loc>
+  <lastmod>2015-04-17T20:17:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hjgraca.github.io/2014/11/20/firefox-caching-disabled-state/</loc>
+  <lastmod>2015-04-17T20:17:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hjgraca.github.io/2014/10/31/htmlhelper-unit-test-wrapper/</loc>
+  <lastmod>2015-04-17T20:17:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hjgraca.github.io/2014/10/30/yosemite-homebrew-ruby-badinterpreter/</loc>
+  <lastmod>2015-04-17T20:17:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hjgraca.github.io/2014/10/24/great-time-ngeurope/</loc>
+  <lastmod>2015-04-17T20:17:27+00:00</lastmod>
+</url>
+</urlset>
