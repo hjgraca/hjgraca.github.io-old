@@ -5,6 +5,7 @@ subtitle:   "There is always something new to learn in the AngularJs World."
 date:       2014-10-24 17:37:00
 author:     "Henrique Graca"
 header-img: "img/post-bg-01.jpg"
+description: "Great time at ngEurope Paris"
 ---
 
 ngEurope Paris

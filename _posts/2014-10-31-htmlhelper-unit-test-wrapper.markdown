@@ -5,6 +5,7 @@ subtitle:   "Mocked wrapper for ASP.Net MVC Html Helper"
 date:       2014-10-31 10:52:00
 author:     "Henrique Graca"
 header-img: "img/fence.jpg"
+description: "Unit testing Asp.Net Mvc Html Helper"
 ---
 <p>
 	While working on an MVC project and using TDD I had to create an HtmlHelper extension method, mocking and testing turned out to be a very long and bumpy road. In this blog post I'll show you a way to mock HtmlHelper.

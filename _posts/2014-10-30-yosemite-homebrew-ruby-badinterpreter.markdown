@@ -5,6 +5,7 @@ subtitle: 	"OSX Yosemite Homebrew error."
 date:       2014-10-30 21:58:00
 author:     "Henrique Graca"
 header-img: "img/The_Matrix_Background.jpg"
+description: "Ruby bad interpreter: No such file or directory"
 ---
 
 <p>After upgrading to OSX Yosemite homebrew was giving me the following error:</p>
