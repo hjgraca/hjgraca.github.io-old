@@ -15,6 +15,13 @@ http://andreizubov.blogspot.ru/2015/04/getting-started-with-net-on-os-x-and.html
 
 http://stackoverflow.com/questions/29971826/running-first-asp-net-5-application-using-vscode-dnx-and-kestrel-results-in-ioe
 
+Mono link problems
+Error: Could not symlink include/mono-2.0
+/usr/local/include is not writable.
+
+sudo chown -R henrique /usr/local
+brew link --override mono
+
 run yo as sudo
 
 restoring
