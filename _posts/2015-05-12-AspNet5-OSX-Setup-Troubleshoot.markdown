@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "ASP.NET 5 OSX Part 1"
-subtitle:   "Setup and Troubleshoot"
+title:      "Running Asp.Net 5 on OSX - Part 1"
+subtitle:   "Setup and Troubleshooting"
 date:       2015-05-12 17:52:00
 author:     "Henrique Graca"
 header-img: "img/post-bg-04.jpg"
-description: "ASP.NET 5 on OSX - Part 1: Install and Troubleshoot"
+description: "Running Asp.Net 5 on OSX - Part 1: Install and Troubleshoot"
 ---
 In this blog post I'll share my experience with installing, running and troubleshooting Asp.Net 5 on OSX. 
 
