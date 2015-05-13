@@ -11,13 +11,13 @@ In this blog post I'll share my experience with installing, running and troubles
 
 ## Pre-Requisites and versions ##
 
-Node and Npm installed (if not installed just follow this [Link](http://blog.teamtreehouse.com/install-node-js-npm-mac "Install npm"))
+* Node and Npm installed (if not installed just follow this [Link](http://blog.teamtreehouse.com/install-node-js-npm-mac "Install npm"))
 
-Visual Studio Code ([download](https://code.visualstudio.com "Download Visual Studio Code"))
+* Visual Studio Code ([download](https://code.visualstudio.com "Download Visual Studio Code"))
 
-.NET Version Manager - Version 1.0.0-beta5-10376
+* .NET Version Manager - Version 1.0.0-beta5-10376
 
-dnx/dnu - Version 1.0.0-beta4-11566
+* dnx/dnu - Version 1.0.0-beta4-11566
 
 ## Installing ASP.NET 5 and DNX ##
 
@@ -100,7 +100,7 @@ if the command does not start the server from Visual Studio Code, you can execut
 
 ``dnx . kestrel``
 
-Open you favorite browser and browse to http://localhost:5001 to browse the site we created.
+Open you favorite browser and browse to ``http://localhost:5001`` to browse the site we created.
 
 ## IOException: kqueue() FileSystemWatcher ##
 
