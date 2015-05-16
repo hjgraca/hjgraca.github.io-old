@@ -45,7 +45,7 @@ Install yeoman to scaffold a new Asp.Net 5 application
 
 Follow the instructions provided by the generator, and go to the folder of your new app.
 
-Run `sudo dnu restore` to download and install the necessary nuget packages.
+Run `dnu restore` or if you need elevated permissions `sudo dnu restore --allow-root` to download and install the necessary nuget packages.
 
 ### If dnu not found ###
 
