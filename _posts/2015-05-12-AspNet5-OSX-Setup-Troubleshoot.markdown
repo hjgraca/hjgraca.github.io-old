@@ -53,6 +53,12 @@ Run the following command:
 
 ``source dnvm.sh``
 
+### If dnu Permission denied ###
+
+Run the following command:
+
+``chmod 777 /Users/{your name}/.dnx/runtimes/dnx-mono.1.0.0-beta6/bin/dnu``
+
 ### Problems with Bower! ###
 
 Error: EACCES, permission denied '/Users/{your name}/.config/configstore/bower-github.yml'
