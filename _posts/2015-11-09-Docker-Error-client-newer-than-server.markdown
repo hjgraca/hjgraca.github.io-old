@@ -16,11 +16,13 @@ After updating Docker through docker toolbox to version 1.9, when trying to run 
 
 ## Fix ##
 
-Run the following command to get the list of machines, in my case I have only one with the name "default"
+First you need to run the following command to get the list of machines
 
 ``docker-machine ls``
 
-Then run docker-machine upgrade with the name of your machine(s), in my case
+The output in my case is one machine with the name ``default``. 
+
+After getting your machine(s) name just run ``docker-machine upgrade <name>``, in my case:
 
 ``docker-machine upgrade default``
 
