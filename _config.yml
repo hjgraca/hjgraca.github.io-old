@@ -12,7 +12,7 @@ linkedin_username: hjgraca
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["node_modules"]
 
 gems: [jekyll-paginate]
